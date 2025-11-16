@@ -47,18 +47,3 @@ Software engineer focused on building reliable, maintainable backend systems and
 - Email: vhannebrianvillaso@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vhanne-brian-villaso-213690231/)
 
----
-
-## ✨ Tips to customize
-1. Create a repo named exactly vhanbri (owner: vhanbri, repo: vhanbri). Paste this file into README.md and push to main to show it on your profile.
-2. Replace placeholder links (website, LinkedIn, email, project links) with your real ones.
-3. Swap card themes: change the theme param in the image URLs (e.g., dark, radical, merko).
-4. Add or remove sections to match your seniority and priorities (e.g., "Public speaking", "Blog", or "Open-source contributions").
-5. Pin your 3–6 top repositories on your GitHub profile for extra visibility.
-
----
-
-If you'd like, I can:
-- Customize this with your real projects, job title, and links now.
-- Push it directly into your GitHub profile repo (I’ll need permission).
-- Create a variant with a banner image, custom CSS inlined in HTML, or an automated workflow (e.g., update README with latest blog posts).
