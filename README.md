@@ -45,5 +45,5 @@ Software engineer focused on building reliable, maintainable backend systems and
 
 ## 📫 Get in touch
 - Email: vhannebrianvillaso@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vhanne-brian-villaso-213690231/)
+- LinkedIn: https://www.linkedin.com/in/vhanne-brian-villaso-213690231/
 
