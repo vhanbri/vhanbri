@@ -20,18 +20,6 @@ Software engineer focused on building reliable, maintainable backend systems and
 - [TEKNOPLAT](https://github.com/christian-anunciado/TeknoPlat) — A video conference app where pitches are validated and scored according to their authenticity. Created using React, Redux, Django and 100ms live API
 - [TINA2.0](https://github.com/vhanbri/TINA2.0) — A chatbot for CIT. This is a local copy of the project code.
 - [AniKo](https://github.com/vhanbri/digital-market) — AniKo — Cebu's farm-to-city digital produce marketplace
-
----
-
-## 📈 GitHub Stats
-
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vhanbri&show_icons=true&theme=radical&count_private=true" alt="vhanbri's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhanbri&layout=compact&theme=radical" alt="Top languages" />
-</div>
-
-<br />
-
 ---
 
 ## 🛠️ How I work
